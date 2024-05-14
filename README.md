@@ -1,4 +1,4 @@
-![Data Architect](https://github.com/sourceduty/Data_Architect/assets/123030236/005e5682-966d-49b7-aa6f-63ac476f4df4)
+![Data Architect](https://github.com/sourceduty/Data_Architect/assets/123030236/599ae650-24d8-40ee-ac95-aaa28af5af7f)
 
 [Data Architect](https://chatgpt.com/g/g-3gpIHu1BY-data-architect) is essential in designing and managing an organization's data infrastructure to align with its strategic objectives. This role involves creating sophisticated data strategies and models that effectively consolidate and standardize diverse data sources, facilitating streamlined data processing and accessibility.
 
