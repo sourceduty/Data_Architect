@@ -8,5 +8,14 @@ Additionally, Data Architects design the integration systems that allow for effi
 
 An integral part of their role includes future-proofing the data systems. Data Architects stay abreast of the latest technological advancements to update and adapt data architectures, ensuring they can support future business needs and technologies. This proactive approach helps organizations leverage their data assets effectively, enabling data-driven decision-making and enhancing operational efficiencies.
 
+#
+### Related Links
+
+[Dataset Analyzer](https://chatgpt.com/g/g-cYFvzXtdg-dataset-analyzer)
+<br>
+[Data Generator](https://github.com/sourceduty/Data_Generator)
+<br>
+[Data Architect](https://github.com/sourceduty/Data_Architect)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
