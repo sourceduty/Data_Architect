@@ -9,6 +9,29 @@ Additionally, Data Architects design the integration systems that allow for effi
 An integral part of their role includes future-proofing the data systems. Data Architects stay abreast of the latest technological advancements to update and adapt data architectures, ensuring they can support future business needs and technologies. This proactive approach helps organizations leverage their data assets effectively, enabling data-driven decision-making and enhancing operational efficiencies.
 
 #
+### Notes
+
+<details><summary>Code Design & Development</summary>
+<br>
+
+Code Design:
+
+Purpose: Involves planning the structure, architecture, and components of the software before actual coding begins.
+Focus: Design focuses on how different parts of the system will interact, data flow, algorithms, and the overall architecture.
+Outcome: Results in design documents, diagrams, and specifications that guide the development process.
+Tools/Activities: Use of UML diagrams, flowcharts, design patterns, and architectural blueprints.
+
+Code Development:
+
+Purpose: Involves writing, testing, and refining the actual code based on the design specifications.
+Focus: Development is concerned with implementing the design in a programming language, debugging, and ensuring functionality.
+Outcome: Results in working software, which is tested and iterated upon.
+Tools/Activities: Use of IDEs, version control systems, coding, unit testing, and code reviews.
+
+<br>
+</details>
+
+#
 ### Related Links
 
 [Dataset Analyzer](https://chatgpt.com/g/g-cYFvzXtdg-dataset-analyzer)
