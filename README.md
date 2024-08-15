@@ -24,6 +24,7 @@ Outcome: Results in design documents, diagrams, and specifications that guide th
 
 Tools/Activities: Use of UML diagrams, flowcharts, design patterns, and architectural blueprints.
 
+#
 #### Code Development:
 
 Purpose: Involves writing, testing, and refining the actual code based on the design specifications.
