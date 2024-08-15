@@ -17,15 +17,21 @@ An integral part of their role includes future-proofing the data systems. Data A
 Code Design:
 
 Purpose: Involves planning the structure, architecture, and components of the software before actual coding begins.
+
 Focus: Design focuses on how different parts of the system will interact, data flow, algorithms, and the overall architecture.
+
 Outcome: Results in design documents, diagrams, and specifications that guide the development process.
+
 Tools/Activities: Use of UML diagrams, flowcharts, design patterns, and architectural blueprints.
 
 Code Development:
 
 Purpose: Involves writing, testing, and refining the actual code based on the design specifications.
+
 Focus: Development is concerned with implementing the design in a programming language, debugging, and ensuring functionality.
+
 Outcome: Results in working software, which is tested and iterated upon.
+
 Tools/Activities: Use of IDEs, version control systems, coding, unit testing, and code reviews.
 
 <br>
