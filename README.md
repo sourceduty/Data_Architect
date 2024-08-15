@@ -14,7 +14,7 @@ An integral part of their role includes future-proofing the data systems. Data A
 <details><summary>Code Design & Development</summary>
 <br>
 
-Code Design:
+#### Code Design:
 
 Purpose: Involves planning the structure, architecture, and components of the software before actual coding begins.
 
@@ -24,7 +24,7 @@ Outcome: Results in design documents, diagrams, and specifications that guide th
 
 Tools/Activities: Use of UML diagrams, flowcharts, design patterns, and architectural blueprints.
 
-Code Development:
+#### Code Development:
 
 Purpose: Involves writing, testing, and refining the actual code based on the design specifications.
 
