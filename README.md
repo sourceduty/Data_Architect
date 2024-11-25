@@ -1,4 +1,7 @@
-![Data Architect](https://github.com/sourceduty/Data_Architect/assets/123030236/599ae650-24d8-40ee-ac95-aaa28af5af7f)
+![Brace Yourself](https://github.com/user-attachments/assets/c2ade9c4-70ca-41ff-8451-56b0be0bcb36)
+
+> Develop, model and simulate data architecture framework.
+#
 
 [Data Architect](https://chatgpt.com/g/g-3gpIHu1BY-data-architect) is essential in designing and managing an organization's data infrastructure to align with its strategic objectives. This role involves creating sophisticated data strategies and models that effectively consolidate and standardize diverse data sources, facilitating streamlined data processing and accessibility.
 
@@ -37,6 +40,9 @@ Tools/Activities: Use of IDEs, version control systems, coding, unit testing, an
 
 <br>
 </details>
+
+#
+![Data Architect](https://github.com/sourceduty/Data_Architect/assets/123030236/599ae650-24d8-40ee-ac95-aaa28af5af7f)
 
 #
 ### Related Links
